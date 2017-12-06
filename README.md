@@ -13,7 +13,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	3. Document time stamping using Graph Convolutional Networks - Shikhar, Swayambhu, Shib Shankar
 	4. Hierarchical attention network - Vaijenath, Anil, Pratik
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
-	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
+	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinidhi, Bala
 	7. Transfer Learning for NLP with application to detecting duplicate question pairs - Krishna, Rantej, Ravi
 	8. Neural Machine Translation - Kinsuk Sarkar, Maulik Parmar, Ayappa Kumar
 	9. Topic Modeling - Tushar, Sridhar
